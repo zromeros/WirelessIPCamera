@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 1883,
+  "enable_tls": false,
+  "ca_path": "",
+  "cert_path": "",
+  "key_path": "",
+  "keep_alive": 60,
+  "qos": 0
+}
